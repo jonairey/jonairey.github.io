@@ -1,2 +1,10 @@
+#IDEA
 .idea/
 *.iml
+
+# Gem
+.bundle
+.sass-cache
+Gemfile.lock
+_site
+*.gem
